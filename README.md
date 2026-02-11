@@ -43,9 +43,11 @@ I am a 19-year-old full-stack developer from El Salvador, passionate about techn
 ### Actualy i'm learning
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 
-<div align="center">
+
 
 ### GitHub Stats:
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=jimrobert796&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jimrobert796&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimrobert796&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
