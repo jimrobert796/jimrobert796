@@ -1,25 +1,21 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="220" valign="middle" style="border: none;">
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 50px;">
-    <!-- Columna izquierda: GIF -->
-    <div>
-      <img src="https://cnacir.github.io/Pokedex/Images/Dragonite.gif" width="200">
-    </div>
-    
-   
-## Hello there I'm Jimbo  
+<img src="https://cnacir.github.io/Pokedex/Images/Dragonite.gif" width="200">
 
-    
-  </div>
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;&font=Fira%20Code&center=true&width=440&height=45">
-</a>
-</p>
-</div>
+</td>
+
+<td align="left" valign="middle" style="border: none;">
+
+<h2>Hello there I'm Jimbo</h2>
+
+</td>
+</tr>
+</table>
 
 
 
