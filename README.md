@@ -3,13 +3,20 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://cnacir.github.io/Pokedex/Images/Dragonite.gif" width="200" style="vertical-align: middle;">
-  <H1 style="font-size: 28px; font-weight: bold; margin-left: 20px; vertical-align: middle;">
-    Hello there I'm Jimbo
-  </H1>
-</p>
+<table align="center">
+<tr>
+<td align="center" valign="middle">
 
+<img src="https://cnacir.github.io/Pokedex/Images/Dragonite.gif" width="200">
+
+</td>
+<td align="left" valign="middle">
+
+<h2>Hello there I'm Jimbo</h2>
+
+</td>
+</tr>
+</table>
 
 
 
