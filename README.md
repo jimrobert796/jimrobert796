@@ -8,9 +8,7 @@
     <div>
       <img src="https://cnacir.github.io/Pokedex/Images/Dragonite.gif" width="200">
     </div>
-    <div>
-      <img src="https://cnacir.github.io/Pokedex/Images/Dragonite.gif" width="200">
-    </div>
+    
    
 ## Hello there I'm Jimbo  
 
