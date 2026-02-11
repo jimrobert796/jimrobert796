@@ -1,23 +1,14 @@
+
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" width="220" valign="middle" style="border: none;">
-
-<img src="https://cnacir.github.io/Pokedex/Images/Dragonite.gif" width="200">
-
-</td>
-
-<td align="left" valign="middle" style="border: none;">
-
-<h2>Hello there I'm Jimbo</h2>
-
-</td>
-</tr>
-</table>
-
-
+<p align="center">
+  <img src="https://cnacir.github.io/Pokedex/Images/Dragonite.gif" width="200" style="vertical-align: middle;">
+  <span style="font-size: 28px; font-weight: bold; margin-left: 20px; vertical-align: middle;">
+    Hello there I'm Jimbo
+  </span>
+</p>
 
 
 
