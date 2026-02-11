@@ -5,9 +5,9 @@
 
 <p align="center">
   <img src="https://cnacir.github.io/Pokedex/Images/Dragonite.gif" width="200" style="vertical-align: middle;">
-  <span style="font-size: 28px; font-weight: bold; margin-left: 20px; vertical-align: middle;">
+  <H1 style="font-size: 28px; font-weight: bold; margin-left: 20px; vertical-align: middle;">
     Hello there I'm Jimbo
-  </span>
+  </H1>
 </p>
 
 
