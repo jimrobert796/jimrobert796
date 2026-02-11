@@ -12,12 +12,17 @@
 </td>
 <td align="left" valign="middle">
 
-<h1>Hello there I'm Jimbo</h1>
+<h1>Hello there I'm Jimbo 👋</h1>
 
 </td>
 </tr>
 </table>
-
+  </div>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;&font=Fira%20Code&center=true&width=440&height=45">
+</a>
+</p>
 
 
 
