@@ -12,7 +12,7 @@
 </td>
 <td align="left" valign="middle">
 
-<h2>Hello there I'm Jimbo</h2>
+<h1>Hello there I'm Jimbo</h1>
 
 </td>
 </tr>
