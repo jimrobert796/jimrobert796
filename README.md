@@ -27,7 +27,7 @@
 
 
 **¡Hello there!
-I am a 19-year-old full-stack developer from El Salvador, passionate about technology and driven by a strong motivation to learn, create, and grow in the world of software development.**
+I am a 19-year-old a software developer from El Salvador, passionate about technology and driven by a strong motivation to learn, create, and grow in the world of software development.**
 
 ### Lenguages
 
