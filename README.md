@@ -52,7 +52,7 @@ Como desarrollador full-stack con mayor enfoque en el área de backend, me espec
 **Hardware:** Diagnóstico, mantenimiento y soporte técnico de equipos.
 
 
-### GitHub Stats:
+## GitHub Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=jimrobert796&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
