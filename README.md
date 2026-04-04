@@ -47,7 +47,7 @@ Como desarrollador full-stack con mayor enfoque en el área de backend, me espec
 
 **Backend:** APIs, lógica de negocio, autenticación y conexión con bases de datos.
 
-**Admin BD:** Diseño de esquemas, consultas SQL, normalización y optimización.
+**Bases de datos:** Diseño de esquemas, consultas SQL, normalización y optimización.
 
 **Hardware:** Diagnóstico, mantenimiento y soporte técnico de equipos.
 
