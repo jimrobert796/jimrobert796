@@ -74,7 +74,7 @@ Como desarrollador full-stack con mayor enfoque en el área de backend, me espec
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmyroberto270@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimrobert796)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo)](https://jimrobert796.github.io/portafolio/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo)](https://jimrobert796.netlify.app/)
 
 </div>
 
